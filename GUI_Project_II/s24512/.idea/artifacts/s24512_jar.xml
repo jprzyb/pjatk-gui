@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="s24512:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/s24512_jar</output-path>
+    <root id="archive" name="s24512.jar">
+      <element id="module-output" name="s24512" />
+    </root>
+  </artifact>
+</component>

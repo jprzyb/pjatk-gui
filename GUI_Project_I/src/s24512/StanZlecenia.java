@@ -1,0 +1,5 @@
+package s24512;
+
+public enum StanZlecenia {
+    PLANOWANE,NIEPLANOWANE,REALIZOWANE,ZAKONCZONE
+}
